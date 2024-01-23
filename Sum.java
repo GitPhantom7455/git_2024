@@ -4,6 +4,6 @@ public class sum{
         var a=10;
         var b=20;
 
-        system.out.println(a+b);
+        system.out.println("The sum is : "a+b);
     }
 }
